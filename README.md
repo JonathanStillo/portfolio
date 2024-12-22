@@ -1,11 +1,13 @@
 # Computer Science Graduate
 
 ### Education 
-Southern New Hampshire University
+Completion Date: 10/2024
 
-Computer Science, Bachelors   
+School/Institution: Southern New Hampshire University
 
-Completed on: 10/2024
+Degree/Certificate: Computer Science, Bachelors   
+
+
 
 
 ### Work Experience
