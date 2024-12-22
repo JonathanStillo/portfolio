@@ -3,7 +3,9 @@
 ### Education 
 Southern New Hampshire University
 
-Computer Science, Bachelors   10/2024
+Computer Science, Bachelors   
+
+Completed on: 10/2024
 
 
 ### Work Experience
