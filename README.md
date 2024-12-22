@@ -1,6 +1,6 @@
 # Computer Science Graduate
 
-### Education 
+### Official Education 
 Completion Date: 10/2024
 
 School/Institution: Southern New Hampshire University
@@ -27,4 +27,20 @@ I was trained and hired primarily to be a warehouse associate, but was quickly r
 - Coordinate and support security measures to safeguard information against accidental or unauthorized damage, modification or disclosure. 
 - Troubleshoot all system and user issues (hardware and software); report issues and status to manager, leader, or customer throughout the troubleshooting process.
 
-### Projects 
+### Additional Documents
+
+#### Reference Letters
+
+[Walmart Reference Letter](https://docs.google.com/document/d/14pvasNSYurE37PibzdB0BKvhyh2LXoMy-g39LPYwutc/edit?usp=sharing)
+
+[School Reference Letter](https://docs.google.com/document/d/1VG_KBKiCrdSVP9l29qI4rpCv2fNNerkywSg2lm8rxP4/edit?usp=sharing)
+
+#### Additional Certification(s)
+
+[Google UX Design Certificate](https://coursera.org/share/eb691b346b013ecf24036842fa4ff576)
+
+#### Proof Of Education: 
+
+[Computer Science Bachelors Diploma](https://urldefense.com/v3/__https://www.parchment.com/u/s/kd1A__;!!BeImMA!7NhdyHWxNpR0L8gKfi0c_v4-FPwFraA6fv6oZDauG_vYB52PL2IGjgUjeHMGI63S_IrBaarOYvJ-gy8JidgZvfQCAVsHmQ3-2zjK3w9V2g$)
+
+[Official Transcript](https://drive.google.com/file/d/1yEljc4RZ1L9AaAV96b4Ftfj09GVHRozO/view?usp=sharing)
