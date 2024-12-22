@@ -2,8 +2,9 @@
 
 ### Education 
 Southern New Hampshire University
-Computer Science, Bachelors 
-10/2024
+
+Computer Science, Bachelors   10/2024
+
 
 ### Work Experience
 Backup Systems Operator @Walmart Fullfillment Center
