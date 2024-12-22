@@ -32,11 +32,14 @@ I was trained and hired primarily to be a warehouse associate, but was quickly r
 ### Additional Documents
 
 #### Project Page(s)
-[]
+[]()
 
-[]
+Description: 
+[]()
 
-[]
+Description: 
+[]()
+Description:
 #### Reference Letters
 [Walmart Reference Letter](https://docs.google.com/document/d/14pvasNSYurE37PibzdB0BKvhyh2LXoMy-g39LPYwutc/edit?usp=sharing)
 
