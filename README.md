@@ -38,13 +38,9 @@ I was trained and hired primarily to be a warehouse associate, but was quickly r
 []
 
 #### Reference Letters
-
 [Walmart Reference Letter](https://docs.google.com/document/d/14pvasNSYurE37PibzdB0BKvhyh2LXoMy-g39LPYwutc/edit?usp=sharing)
-
 [School Reference Letter](https://docs.google.com/document/d/1VG_KBKiCrdSVP9l29qI4rpCv2fNNerkywSg2lm8rxP4/edit?usp=sharing)
-
 #### Additional Certification(s)
-
 [Google UX Design Certificate](https://coursera.org/share/eb691b346b013ecf24036842fa4ff576)
 
 #### Proof Of Education: 
