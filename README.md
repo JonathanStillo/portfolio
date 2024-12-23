@@ -12,7 +12,7 @@ Position: Backup Systems Operator
 Location: Walmart Fullfillment Center
 
 #### Context: 
-I was trained and hired primarily to be a warehouse associate, but was quickly recognized as fast learning/adaptive to the point where I handled multiple different positions. As the company's internal network was frequently experiencing performance slowdowns (especially during peak hours), I was assigned to the System Operator team as a backup associate.
+     I was trained and hired primarily to be a warehouse associate, but was quickly recognized as fast learning/adaptive to the point where I handled multiple different positions. As the company's internal network was frequently experiencing performance slowdowns (especially during peak hours), I was assigned to the System Operator team as a backup associate.
 
 #### My Tasks/Role in the company: 
 - Provide support to internal and external customers by researching data on system and network related issues. 
